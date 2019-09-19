@@ -1,7 +1,4 @@
 import threading
-from Tkinter import *
-#from Tkinter import simpledialog
-import tkSimpleDialog as simpledialog
 
 import grpc
 import time
